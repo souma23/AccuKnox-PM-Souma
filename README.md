@@ -10,7 +10,8 @@
 For this assignment, I designed a unified experience that merges **Cloud Security Posture (Dashboard)** with an **Alert Triage Workflow**. My goal was to move beyond just identifying "red flags" and focus on **remediation**—helping engineers fix critical issues faster.
 
 ## 📁 Project Deliverables
-* **[View Final PRD (PDF)](Souma_Chatterjee_AccuKnox_PM_Assingment.pdf)** * **[Figma Design Prototype](https://www.figma.com/design/QBEKeRd6snkAvgJCd1bS3f/Untitled?node-id=0-1&t=3NCifkhwvmcnLgm0-1)**
+* **[View Final PRD (PDF)](Souma_Chatterjee_AccuKnox_PM_Assingment.pdf)**
+* * **[Figma Design Prototype](https://www.figma.com/design/QBEKeRd6snkAvgJCd1bS3f/Untitled?node-id=0-1&t=3NCifkhwvmcnLgm0-1)**
 * **[Video Walkthrough (Google Drive)](https://drive.google.com/file/d/1dyehQwv9jpigMXR6JaxQO3PPlyo7AX-5/view?usp=drivesdk)**
 
 ## 🛠️ Key Highlights
