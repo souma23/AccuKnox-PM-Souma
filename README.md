@@ -1,8 +1,7 @@
 # Cloud Security & Remediation Project
 ### AccuKnox Product Manager Assignment
 
-**Name:** Souma Chatterjee  
-**Background:** B.Tech (ECE) | MBA (Tech Management & Marketing)
+**Name:** Souma Chatterjee | B.Tech (ECE) | MBA (Tech Management & Marketing) 
 
 ---
 
